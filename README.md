@@ -36,6 +36,8 @@
 
 (GET http://localhost:8080/api/estudiantes/carrera/1/ciudad/Rauch)
 
+...
+
 ### g) Recuperar los estudiantes de una determinada carrera, filtrado por ciudad de residencia.
 
 (GET http://localhost:8080/api/estudiantes/carrera/1/ciudad/Tandil)
